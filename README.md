@@ -12,3 +12,7 @@ Componente que genera un input de tipo rango con valores completamente customiza
 - Las marcas del input poseen la misma separación entre ellas a pesar de corresponder a rangos de valores diferentes.
 - En sincronía con un input de tipo número para permitir una entrada mas precisa.
 - Diseño responsivo
+
+#### Deploy
+
+Puede verse el deploy [acá](https://componente-input-range.vercel.app/)
