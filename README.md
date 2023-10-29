@@ -1,6 +1,6 @@
 # Componente de React
 
-Componente creador con [Create React App](https://github.com/facebook/create-react-app) y [TailwindCSS](https://tailwindcss.com/)
+Componente creado con [Create React App](https://github.com/facebook/create-react-app) y [TailwindCSS](https://tailwindcss.com/)
 
 ## Descripción
 
