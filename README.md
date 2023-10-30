@@ -13,6 +13,8 @@ Componente que genera un input de tipo rango con valores completamente customiza
 - En sincronía con un input de tipo número para permitir una entrada mas precisa.
 - Diseño responsivo
 
+[input.webm](https://github.com/Ashlank/Componente-Input-Range/assets/88116420/8f8c8a63-9b75-4675-bfdc-32acdcf8d23a)
+
 #### Deploy
 
 Puede verse el deploy [acá](https://componente-input-range.vercel.app/)
