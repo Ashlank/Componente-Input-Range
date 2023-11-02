@@ -2,6 +2,8 @@
 
 Componente creado con [Create React App](https://github.com/facebook/create-react-app) y [TailwindCSS](https://tailwindcss.com/)
 
+Idea tomada de [Adrian](https://twitter.com/wydmanski_)
+
 ## Descripción
 
 Componente que genera un input de tipo rango con valores completamente customizables.
